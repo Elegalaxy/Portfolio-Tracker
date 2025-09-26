@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: gradle-api-8.10.2" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.10.2/generated-gradle-jars/gradle-api-8.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

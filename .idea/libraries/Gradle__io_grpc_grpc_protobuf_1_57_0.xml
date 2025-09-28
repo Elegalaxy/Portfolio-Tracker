@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: io.grpc:grpc-protobuf:1.57.0" type="AndroidModuleLibraryType">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.57.0/49986e40de6cbd14ba26247639b18ab0bac921c1/grpc-protobuf-1.57.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
